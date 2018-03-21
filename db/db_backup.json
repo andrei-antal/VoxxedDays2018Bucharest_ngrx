@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "description":
+        "Kurt Vonnegut's absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.",
+      "poster": "https://images.gr-assets.com/books/1440319389l/4981.jpg",
+      "comment": ""
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description":
+        "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+      "poster": "https://images.gr-assets.com/books/1361975680l/2657.jpg",
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description":
+        "Jay Gatsby is the man who has everything. But one thing will always be out of his reach. Everybody who is anybody is seen at his glittering parties. Day and night his Long Island mansion buzzes with bright young things drinking, dancing, and debating his mysterious character. For Gatsby---young, handsome, and fabulously rich---always seems alone in the crowd, watching and waiting, though no one knows what for. Beneath the shimmering surface of his life he is hiding a secret - a silent longing that can never be fulfilled. And soon this destructive obsession will force his world to unravel.",
+      "poster": "https://images.gr-assets.com/books/1490528560l/4671.jpg",
+      "comment": ""
+    },
+    {
+      "id": 4,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description":
+        "Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress...",
+      "poster": "https://images.gr-assets.com/books/1487389574l/5129.jpg",
+      "comment": ""
+    }
+  ]
+}
